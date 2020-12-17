@@ -1,0 +1,35 @@
+html {
+  font-family: sans-serif;
+}
+
+tabla {
+  border-collapse : collapse;
+  border :  2 px 200 ;
+  letter-spacing : 1 px ;
+  font-size : 0.8 rem ;
+}
+
+td ,  th {
+  border :  1 px 190 ;
+  padding : 10 px  20 px ;
+}
+
+th {
+  background-color: 235 ;
+}
+
+td {
+  text-align : centro;
+}
+
+tr:nth-child, td {
+  background-color : 250;
+}
+
+tr:nth-child td {
+  background-color : 245;
+}
+
+subtítulo {
+  padding : 10 px ;
+}
